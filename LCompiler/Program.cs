@@ -6,7 +6,14 @@ namespace LCompiler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string input = "T->F,F,F,F";
+            int inputIndex = 0;
+
+
+
+
+
+
         }
     }
 }
