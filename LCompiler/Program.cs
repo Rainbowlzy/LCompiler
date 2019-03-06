@@ -1,4 +1,5 @@
 ﻿using System;
+using LCompiler.Store;
 
 namespace LCompiler
 {
@@ -8,12 +9,8 @@ namespace LCompiler
         {
             string input = "T->F,F,F,F";
             int inputIndex = 0;
-
-
-
-
-
-
+            new LR0();
+            Console.ReadLine();
         }
     }
 }
